@@ -1,0 +1,416 @@
+
+moisturizer
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/71eGPJQryIL._SL1500_.jpg",
+    "brand": "Biotique ",
+    "title": "Moisturizer",
+    "color": "",
+    "discountedPrice": ,
+    "price": 132,
+    "discountPersent": 25,
+    
+    
+    "topLavelCategory": "skincare",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "Moisturizer",
+    "description":
+      " 
+
+      Nourishment imbued moisturizer: For a radiant and blazing start to the morning, Biotique Morning Nectar Flawless Skin Moisturizer provides nourishing and hydrating properties. For a visible glow it even prevents dark spots and blemishes.
+      Benefits to use Morning Nectar Moisturizer: This Biotique Moisturizer works as a powerful component that comes with deep moisturizing properties. It is also designed to improve skin texture and tone it for impeccable-looking skin.
+      Key Ingredients to swear by:  The Morning Nectar Moisturizer is blended with natural ingredients; Nectar, Wild Turmeric, and Ashwagandha. The infused elements comprise of skin- brightening properties and retain natural moisture.
+      Organically pure: This Biotique Moisturizing Cream is made with 100% natural botanical extracts and free from harmful chemicals. It is dermatologically tested to suit every skin type. The skin is noticeably brighter with regular use.
+      Effortless application: Moisturize it all the way for soft and supple skin! Start by applying Morning Nectar Moisturizer evenly on a cleansed face and neck.
+  
+  "
+  
+},
+
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/61jYaY2ek4L._SL1500_.jpg",
+    "brand": "Neutrogena",
+    "title": "Moisturizer",
+    "color": "",
+    "discountedPrice": ,
+    "price": 815,
+    "discountPersent": 20,
+    
+    
+    "topLavelCategory": "Skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "Moisturizer",
+    "description":
+      " 
+      Forget everything you have been told about moisturizing! Try intense hydration with the New Neutrogena Hydro Boost Water Gel<br>
+      Moisturizers are formulated only to seal moisture in to the skin but do not increase the moisture level of the skin. They also tend to leave an oily and greasy feel on the skin which attracts dust and pollution to cause acne breakouts<br>
+      Hydrating products are designed to not only moisturize but also increase the water content of the skin<br>
+      Neutrogena Hydro Boost Water Gel with 72 hours hydration with 50% more Hyaluronic acid; Unique light-weighted fresh texture that can be instantly absorbed<br>
+      Target Gender: Female; Scent Name: Unscented
+  "
+},
+
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/51ljhvMpfBL._SL1201_.jpg",
+    "brand": "Mamaearth",
+    "title": "Mamaearth Ubtan Ultra Light Gel Oil-Free Moisturizer For Face, Body And Hands; ",
+    "color": "",
+    "discountedPrice": 800,
+    "price": 867,
+    "discountPersent": 10,
+    
+    
+    "topLavelCategory": "skincare",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "Moisturizer",
+    "description":
+      "MADE WITH NATURAL INGREDIENTS: Dermatologically tested, the oil-free gel moisturizer is free from Sulfates, Parabens, SLS, and Mineral Oils.; SUITABLE FOR ALL SKIN TYPES: This gel moisturizer is dermatologically tested & is suitable for all skin types.  "
+  
+},
+
+serums
+
+
+{
+    "imageUrl":
+      "https://ik.imagekit.io/hng/pdp/558924_1.jpg?v=4",
+    "brand": "Garnier",
+    "title": "Garnier Skin Naturals Bright Complete 30x Vitamin C Booster Serum 30ml",
+    "color": "",
+    "discountedPrice": 440,
+    "price": 495,
+    "discountPersent": 20,
+    
+    
+    "topLavelCategory": "skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "Serum",
+    "description":"Garnier Light Vitamin C Booster Serum is a brightening and spot reduction formula in a face serum. 
+
+    What It Does
+    Enriched with the power of 30X VITAMIN C and Lemons, the lightweight and non-oily formula instantly penetrates into the skin. It give you an instant glow and reduce spots in 3 DAYS. Dermatologically tested and suitable for all skin types.
+ "
+  
+},
+
+
+
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/51M7OZgE83L._SL1500_.jpg",
+    "brand": "Levon",
+    "title": "Livon Serum ",
+    "color": "Maroon",
+    "discountedPrice": 126,
+    "price": 189,
+    "discountPersent": 40,
+    
+    
+    "topLavelCategory": "skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "serum",
+    "description":"
+    
+    Suitable for all hair types: No matter how you like to keep your hair, Livon Serum will give your hair the salon finish it deserves. Sulfate Free
+    Perfect Moisturization: Infused with potent moroccan argan oil extracts, Livon Serum moisturises hair, giving it a glossy finish
+    Ultra Glossy Hair: Livon Serum instantly makes your hair upto 50% glossier, giving your hair a super gloss boost
+    Frizz Free Hair: Livon Serum instantly detangles your hair, cuts through frizz and gives super smooth ultra glossy hair
+    Salon Finish Hair: Livon Serum gives your hair the perfect, salon finish every single time to shampoo so your hair looks fab always
+    Hairstyling Partner: Apply Livon Serum to your hair before making a hairstyle to protect your hair from damage. Use a little Livon Serum after making the hairstyle to tame flyaways
+
+
+ "
+ 
+},
+
+
+
+
+
+
+
+
+
+
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/51Szz93Mh-L._SL1000_.jpg",
+    "brand": "ponds",
+    "title": "serum",
+    "color": "",
+    "discountedPrice": 211,
+    "price": 249,
+    "discountPersent": 15,
+    
+    
+    "topLavelCategory": "skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "serum",
+    "description":"
+   
+    Penetrates 10 layers deep within your skin to remove pigmentation & give you a flawless radiance
+    It has 12% Gluta-Niacinamide complex. Gluta Boost reduces pigmentation & Niacinamide goes 10 layers deep to give you a flawless radiance
+    3 out of 4 women see brighter & clearer skin in 7 days
+    It's easy to use: 1) Just squeeze the dropper, put 3 drops on your face on the higher part of your cheek 2) Pat and then blend it into your skin 3) Get your flawless radiance
+    For best results, use twice a day
+"
+ 
+},
+
+sun protection
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/51oqK68kcFL._SL1000_.jpg",
+    "brand": " Lakme ",
+    "title": "Lakme Sun Expert SPF 50 Ultra Matte Lotion",
+    "color": "",
+    "discountedPrice": 327,
+    "price": 499,
+    "discountPersent": 28,
+    
+    
+    "topLavelCategory": "skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "sun protection",
+    "description":"
+   
+    Shields skin against UVA and UVB rays
+    Prevents sunburn, dark spots, and premature aging
+    Moisturize the skin and makes it glow
+    Prevents tan lines
+    Lightens the skin tone on regular use
+    Gives a cooling effect
+"
+ 
+},
+
+
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/61dSZR8IqbL._SL1500_.jpg",
+    "brand": " Neutrogena",
+    "title": "Neutrogena Ultra sheer Sunscreen, SPF 50+, Ultra light, for oily and dry skin, 30ml",
+    "color": "",
+    "discountedPrice": 200,
+    "price": 260,
+    "discountPersent": 20,
+    
+    
+    "topLavelCategory": "skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "sun protection",
+    "description":"
+  
+
+    Neutrogena Ultra Sheer Dry Touch Sunblock, SPF 50+ sunscreen for men and women
+    Broad spectrum SPF 50+ protection against UVA UVB rays
+    Dermatologist Tested, Oil-free and Non-Comedogenic
+    Ultra-Light with a non-shiny finish, leaves the skin Soft & Smooth
+    Suitable for all skin types (oily, dry, normal)
+    Waterproof & Sweatproof
+    Weightless Matte finish Sunscreen
+
+
+    "
+ 
+},
+
+
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/61pqF3TnXhL._SL1080_.jpg",
+    "brand": " Episoft",
+    "title": "Glenmark Episoft AC Moisturizer with Sunscreen, SPF 30+ ",
+    "color": "",
+    "discountedPrice":449 ,
+    "price":600 ,
+    "discountPersent": 15,
+    
+    
+    "topLavelCategory": "slin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "sun protection",
+    "description":"
+    Glenmark Episoft AC is a non-comedogenic moisturiser that feels light, is non-greasy and is safe for everyday use. It does not leave any white cast on the skin and makes your skin look well hydrated.
+    It is enriched with SPF 30+ that provides broad-spectrum protection against UVA/UVB rays. It is safe to be used on oily skin for both men and women. Use it every day for better results.
+    It has anti-hyperpigmentation properties that help in lessening pigmentation, fade melanin creation, help even out skin tone and give your skin a radiating glow.
+    Glenmark Episoft AC moisturiser is specially formulated for acne-prone skin and helps in overcoming dryness and pigmentation associated with acne. It makes your acne treatment journey convenient and comfortable.
+    This moisturiser with microencapsulated sunscreen helps protect the pores from getting blocked. It is safe to be used by early teenage and adolescent groups and young adults.
+ "
+ 
+},
+
+face wash
+{
+    "imageUrl":
+      "https://m.media-amazon.com/images/I/719FR9XlJ+L._SL1500_.jpg",
+    "brand": "Himalaya",
+    "title": "Himalaya Herbals Purifying Neem Face Wash, 150ml",
+    "color": "",
+    "discountedPrice": 155,
+    "price": 205,
+    "discountPersent": 24,
+    
+    
+    "topLavelCategory": "skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "face wash",
+    "description":" 
+    Eliminates pimples
+    Prevents recurrence of acne
+    Cleanses face
+    Country of Origin: India
+
+    "
+    
+ 
+},
+
+
+
+
+
+{
+    "imageUrl":"https://m.media-amazon.com/images/I/51veXCSCAJL._SL1000_.jpg",
+    "brand": "cetaphil ",
+    "title": "Cetaphil Moisturising Lotion for Face & Body, Normal to dry skin,500 ml",
+    "color": "",
+    "discountedPrice": 1350,
+    "price": 1422,
+    "discountPersent": 5,
+    
+    "topLavelCategory": "skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "face wash",
+    "description":" 
+    Non-greasy formula
+    Fragrance free and hypo-allergenic
+    Dermatologist recommended
+
+
+   "
+ 
+},
+
+
+
+{
+    "imageUrl":"https://m.media-amazon.com/images/I/6197Ju782TL._SL1500_.jpg",
+    "brand": "Lotus",
+    "title": "Lotus Botanicals Ubtan De-Tan Radiance Face Wash | Infused with 24K Gold ",
+    "color": "",
+    "discountedPrice": 137,
+    "price": 275,
+    "discountPersent": 50,
+    
+    "topLavelCategory": "skin care",
+    "secondLavelCategory": "skin",
+    "thirdLavelCategory": "face wash",
+    "description":" 
+
+    BRIGHTENS SKIN TONE: Shine bright! Lotus Botanicals Ubtan De-Tan Radiance Face Wash helps remove tan and improves skin texture. Infused with 24K gold, it contains turmeric, chickpea, rose petals & sandalwood that are natural healers which revives skin by bringing out its natural glow.
+    REMOVES TAN FOR CLEAR SKIN: Lotus Botanicals Ubtan De-Tan Radiance Face Wash clarifies skin and removes tan to promote even skin tone. The goodness of natural ingredients work without disturbing the skin’s pH.
+    GENTLE CLEANSER: Gently clean dead skin cells and eliminate pollutants that regular cleaning cannot tackle. Clear deep-rooted dirt.
+    REMOVES DARK SPOTS: Turmeric, ubtan, rose petals infused with 24K gold are rich in antioxidants and protects the skin cells from free-radical damage and lightens the skin tone improving the skin complexion.
+
+
+
+
+   "
+ 
+},
+
+
+
+
+{
+    "imageUrl":"https://m.media-amazon.com/images/I/51Za0K0EHTL._SL1000_.jpg",
+    "brand": "Blue Heaven Dip & Twist Nail Paint Remover,",
+    "title": "Nail Polish remover",
+    "color": "",
+    "discountedPrice": 60,
+    "price": 94,
+    "discountPersent": 30,
+    
+    
+    "topLavelCategory": "Makeup",
+    "secondLavelCategory": "Nails",
+    "thirdLavelCategory": "Nailpolish remover",
+    "description":" 
+
+
+
+    One second nail polish remover
+    With vitamins and almond oil
+    Easy to use
+
+
+   "
+ 
+},
+
+
+
+{
+    "imageUrl":"https://m.media-amazon.com/images/I/417hqWiam2L._AC_UL320_.jpg",
+    "brand": "MyGlamm",
+    "title": "Nail Polish remover",
+    "color": "",
+    "discountedPrice": 60,
+    "price": 62,
+    "discountPersent": 2,
+    
+    
+    "topLavelCategory": "Makeup",
+    "secondLavelCategory": "Nails",
+    "thirdLavelCategory": "Nailpolish remover",
+    "description":" 
+
+
+
+
+    One-swipe removal: Enhanced with rich hydrating and nourishing ingredients, this nail polish remover strips away all traces of lacquer in just a single swipe.
+    Nourishes nail beds: It is enriched with the goodness of olive oil to moisturise, hydrate and protect nails while removing the nail polish.
+    Conditions and protects: It is infused with Green Tea Extracts & Vitamin E to keep the nails in good health, while strengthening them.
+    Acetone- free : It has a unique formula that does not contain acetone, paraben or SLS.
+
+
+
+   "
+ 
+},
+
+
+{
+    "imageUrl":"https://m.media-amazon.com/images/I/618gZTw91KL._SL1500_.jpg",
+    "brand": "RENEE  ",
+    "title": "Nail Polish remover",
+    "color": "",
+    "discountedPrice": 60,
+    "price": 99,
+    "discountPersent": 30,
+    
+    
+    "topLavelCategory": "Makeup",
+    "secondLavelCategory": "Nails",
+    "thirdLavelCategory": "Nailpolish remover",
+    "description":" 
+
+
+
+
+    
+    Removes nail polish easily & quickly
+    Enriched with Argan oil & Vitamin E
+
+
+   "
+ 
+},
+
+
+
+
+
